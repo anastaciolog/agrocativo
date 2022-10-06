@@ -1,0 +1,15 @@
+{
+	"extends": [
+		"tslint:recommended"
+	],
+	"rules": {
+		"indent": [true, "tabs", 2],
+		"no-console": [true, "warning"],
+		"no-var-requires": false,
+		"semicolon": [true, "never"],
+		"interface-name": [true, "never-prefix"],
+		"object-literal-sort-keys": false,
+		"align": false,
+		"max-line-length": false
+	}
+}
